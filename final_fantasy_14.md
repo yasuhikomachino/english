@@ -29,7 +29,7 @@
 ---
 
 - Now most times when something like that happens in this industry when a game ships in this shabby estate and reviews this poorly.
-- The studio behind it just has to cut their losses and move on
+- The studio behind it just has to cut their losses and move on or go bankrupt and disappear which is far more likely when that failed game is an mmo one of the most expensive kinds of game you can make.
 
 ```
 「The studio behind it just has to cut their losses and move on」は、「それ（ゲームなど）を制作したスタジオはただ損失を切り捨てて先に進むしかない」という意味です。
@@ -43,19 +43,44 @@
 "and move on" は「そして先に進む」を意味します。これは、過去の失敗から学び、新たな機会やプロジェクトに向かって進むことを示しています。
 ```
 
--  or go bankrupt and disappear which is far more
-0:59
-likely when that failed game is an mmo
-1:02
-one of the most expensive kinds of game
-1:04
-you can make but as you can probably
-1:07
-surmise that is not what happened with
-1:09
-final fantasy xiv no instead they
-1:12
-decided to make the mmo again and i need
+```
+この文を明確に理解するためには、文脈が必要ですが、それぞれの部分を個別に解釈することができます。
+
+"or go bankrupt and disappear" - これは上記の「損失を切り捨てて先に進む」選択肢の代替案を示しています。つまり、「破産して消える」という可能性を示しています。
+
+"which is far more likely" - これは前の部分（「破産して消える」）がよりありそうであることを示しています。
+
+"when that failed game is an mmo" - 「その失敗したゲームがMMO（Massively Multiplayer Online game：大規模多人数参加型オンラインゲーム）であるとき」、つまり、そのゲームがMMOの種類であり、それが失敗した場合を指しています。
+
+"one of the most expensive kinds of game." - MMOはゲームの種類の中でも最もコストが高いものの一つです。開発、メンテナンス、サーバーのコストなど、多大な財政的な投資が必要です。
+
+したがって、この文全体の意味は、「または破産して消え去る（これがより可能性が高い）、特にその失敗したゲームがMMOである場合、それはゲームの中でも最も高価な種類の一つだからだ」ということを表しています。つまり、MMOという高コストのゲームが失敗すると、それを制作したスタジオが破産し、消えてしまう可能性が高いということを示しています。
+```
+
+```
+
+「which is far more likely」は、特定の状況や結果が他の可能性よりもずっと高いことを示す表現です。以下にその使用例を3つ示します：
+
+"I could take the bus or walk, which is far more likely since the weather is nice today." – バスに乗るか歩くかですが、今日の天気が良いので歩く方がずっと可能性が高いです。
+
+"She might stay in tonight, but knowing her love for parties, going out is far more likely." – 彼女が今夜家にいるかもしれませんが、彼女のパーティー好きを考えると、外出する方がずっと可能性が高いです。
+
+"They could order pizza, but given their love for Japanese cuisine, choosing sushi is far more likely." – ピザを注文することもできますが、彼らの日本料理への愛から考えると、寿司を選ぶ方がずっと可能性が高いです。
+```
+
+- But, as you can probably surmise that is not what happened with final fantasy xiv no instead they decided to make the mmo again.
+
+```
+"But, as you can probably surmise" - 「しかし、あなたがおそらく推測できるように」。このフレーズは、リスナーまたは読者が次に述べられる事実を推測または理解できるであろうことを示しています。
+
+"that is not what happened with Final Fantasy XIV" - 「それはFinal Fantasy XIVで起こったことではない」。この部分では、前述の話（おそらくゲーム会社が破産し、消え去るというシナリオ）がFinal Fantasy XIVという特定のゲームには適用されないことを述べています。
+
+"no instead they decided to make the mmo again" - 「いえ、代わりに彼らはMMOを再度作ることを決定した」。この部分では、Final Fantasy XIVの開発チームがゲームを破棄するのではなく、再開発を選択したと説明しています。
+
+したがって、全体としてこの文は、「しかし、あなたがおそらく推測できるように、それはFinal Fantasy XIVで起こったことではない。いえ、代わりに彼らはMMOを再度作ることを決定した」という意味になります。つまり、Final Fantasy XIVの開発チームは、ゲームが初めてリリースされたときに直面した問題を解決するために、ゲームを再開発するという選択をしたと述べています。
+```
+
+-  and i need
 1:15
 to stress this is basically unheard of
 1:17
